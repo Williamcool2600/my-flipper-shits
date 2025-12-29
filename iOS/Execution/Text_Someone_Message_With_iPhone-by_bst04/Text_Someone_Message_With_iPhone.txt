@@ -17,7 +17,7 @@ ENTER
 DELAY 1500
 GUI n
 DELAY 250
-STRING [person]
+STRING [Lucas Allen]
 DELAY 500
 ENTER
 DELAY 250
@@ -25,6 +25,6 @@ TAB
 ENTER
 DOWNARROW
 DELAY 500
-STRING [text]
+STRING [the flipper zero sent this text lol]
 DELAY 500
 ENTER
